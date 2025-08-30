@@ -1,1 +1,2 @@
 Some other files says hello
+I'm adding some more details in feature-2
